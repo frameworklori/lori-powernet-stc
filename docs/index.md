@@ -19,5 +19,5 @@ This module includes:
 
 ****All rights reserved. Redistribution or modification without permission is not allowed.****
 
-This document is an official component of the LORI Framework. Unauthorized editing or content injection is strictly prohibited. Public access is granted for reading and referencing only.
-
+This document is a protected and reviewed component of the LORI Framework.
+Public access is granted for transparency, but all edit permissions are restricted. Unauthorized changes are prohibited under the project’s ethical governance protocol.
