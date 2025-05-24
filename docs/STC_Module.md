@@ -34,5 +34,9 @@ layout: default
 
 ****All rights reserved. Redistribution or modification without permission is not allowed.****
 
+**Author Note:**
 This document is a protected and reviewed component of the LORI Framework.
 Public access is granted for transparency, but all edit permissions are restricted. Unauthorized changes are prohibited under the project’s ethical governance protocol.
+
+**Governance Notice:**
+This repository is governed by the LORI Ethical Protocol. Any unauthorized modification or derivative use is strictly prohibited. For collaboration, please submit a formal request or Pull Request for review.
