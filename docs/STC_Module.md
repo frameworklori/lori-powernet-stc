@@ -29,5 +29,5 @@ layout: default
 
 ---
 <p align="center">
-<img src="./assets/images/LORI-STC-diagram-v2.png" alt="STC Diagram" width="500">
+<img src="../assets/images/LORI-STC-diagram-v2.png" alt="STC Diagram" width="500">
 </p>
