@@ -16,3 +16,6 @@ This module includes:
 - Decision authority protocols
 
 *More details in [STC_Module.md](STC_Module.md)*
+
+****All rights reserved. Redistribution or modification without permission is not allowed.****
+
