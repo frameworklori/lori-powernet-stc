@@ -29,4 +29,4 @@ layout: default
 
 ---
 
-![STC Diagram](../assets/images/LORI-STC-flowchart.png)
+![STC Diagram](./assets/images/LORI-STC-flowchart.png)
